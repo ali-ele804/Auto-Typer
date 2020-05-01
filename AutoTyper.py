@@ -15,9 +15,9 @@ __title__ = """
 """
 print(__title__)
 
-print("NOTE! Failsafe will be triggered if put the cursor on a corner on screen.")
+print("NOTE! Failsafe will be triggered if put the cursor on a corner on screen.\n")
 
-print("To start i need info:")
+print("\nTo start i need info:\n")
 
 sentence = input("What would you like the sentence to be?: ")
 
