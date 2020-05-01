@@ -5,4 +5,4 @@ By Ali
 
 # Installation
 
-pip3 install -r Requirements.txt
+pip3 install -r requirements.txt
