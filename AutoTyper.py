@@ -1,5 +1,4 @@
 import pyautogui
-import win32com.client as comclt
 import time
 
 # im dying inside
