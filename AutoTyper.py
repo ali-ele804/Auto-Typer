@@ -24,11 +24,11 @@ _time_ = input("How many lines would you like it to create? (0 for infinite): ")
 
 _time_ = int(_time_) -1
 
-delay = input("How long do you want it to delay? This is for applications that block spamming like Discord, (In milliseconds) (0 for none): ")
+delay = input("How long do you want it to delay? This is for applications that block spamming like Discord, (0 & Decimal point for milliseconds) (0 for none): ")
 
 delay = float(delay)
 
-input("Once this starts it will begin typing. Before you start go to the application and choose where you want it to type. Press enter to begin.")
+input("Once this starts it will begin typing. Before you start go to the desired application . Press enter to begin.")
 
 if _time_ == -1:
     while(1 < 2):
